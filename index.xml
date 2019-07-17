@@ -6,56 +6,46 @@
     <description>Recent content on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publications/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Confining Strings, Infinite Statistics and Integrability</title>
+      <link>/publications/quonintegrability/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/publications/quonintegrability/</guid>
+      <description>
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract:&lt;/h4&gt;
+
+&lt;p&gt;We study confining strings in massive adjoint two-dimensional chromodynamics. Off-shell, as a consequence of zigzag formation, the resulting worldsheet theory provides a non-trivial dynamical realization of infinite quon statistics. Taking the high energy limit we identify a remarkably simple and novel integrable relativistic $N$-body system. Its symmetry algebra contains an additional &amp;ldquo;shadow&amp;rdquo; Poincar&amp;#233; subalgebra. This model describes the $N$-particle subsector of a $T\bar{T}$-deformed massless fermion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adjoint QCD in D=2</title>
-      <link>/research/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <link>/research/adjointqcd2/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research/internal-project/</guid>
-      <description>&lt;p&gt;Description&lt;/p&gt;
+      <guid>/research/adjointqcd2/</guid>
+      <description>&lt;p&gt;Description Adjoint QCD&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publications/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>From QCD Strings to WZW</title>
+      <link>/publications/qcdtowzw/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/publications/qcdtowzw/</guid>
+      <description>
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract:&lt;/h4&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;According to the Axionic String Anstaz (ASA) confining flux tubes in pure gluodynamics are in the same equivalence class as a new family of integrable non-critical strings, called axionic strings. In addition to translational modes, axionic strings carry a set of worldsheet axions transforming as an antisymmetric tensor under the group of transverse rotations. We initiate a study of integrable axionic strings at general number of space-time dimensions $D$. We show that in the infinite tension limit worldsheet axions should be described by a peculiar &amp;ldquo;pseudofree&amp;rdquo; theory-their $S$-matrix is trivial, but the corresponding action cannot be brought into a free form by a local field redefinition. This requirement fixes the axionic action to take a form of the $O(D−2)$ Wess-Zumino-Witten (WZW) model.&lt;/p&gt;
 </description>
     </item>
     
